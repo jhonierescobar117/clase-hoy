@@ -72,6 +72,31 @@ Sí:
 - Controlar rendimiento de ventas.
 
 ---
+##  Usuarios y Roles
+
+### 🔹 Administrador
+- Agregar, editar y eliminar productos.
+- Gestionar usuarios.
+- Ver reportes completos.
+- Control total del sistema.
+
+### 🔹 Usuario (Empleado de ventas)
+- Registrar ventas.
+- Consultar productos.
+- Ver su historial de ventas.
+- No puede eliminar productos ni usuarios.
+
+---
+
+## 🔐 Información Manejada
+
+### 🔹 Datos críticos.
+- Historial de ventas.
+- Información financiera.
+- Inventario.
+- Credenciales de acceso.
+- Datos de clientes.
+
 
 
 

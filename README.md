@@ -1,9 +1,9 @@
-# 🏗️ Arquitectura del Sistema  
+#  Arquitectura del Sistema  
 ## Sistema de Gestión de Ventas
 
 ---
 
-## 📥 Entradas (Inputs)
+##  Entradas (Inputs)
 
 ### 🔹 ¿Qué datos recibe el sistema.?
 - Datos de clientes (nombre, cédula, teléfono, correo).
@@ -17,10 +17,10 @@
 - Empleado de ventas.
 
 ### 🔹 Tipo de datos
-- 📝 Texto: nombres, correos, descripciones.
-- 🔢 Números: precios, cantidades, totales.
-- 📅 Fechas: fecha de venta.
-- 📂 Archivos (opcional): reportes PDF o Excel.
+-  Texto: nombres, correos, descripciones.
+-  Números: precios, cantidades, totales.
+-  Fechas: fecha de venta.
+-  Archivos (opcional): reportes PDF o Excel.
 
 ---
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 📤 Salidas (Outputs)
+##  Salidas (Outputs)
 
 
 ### 🔹 ¿Qué obtiene el usuario?
@@ -76,7 +76,7 @@ Sí:
 
 ---
 
-## 👥 Usuarios y Roles
+##  Usuarios y Roles
 
 ### 🔹 Administrador
 - Agregar, editar y eliminar productos.
@@ -109,7 +109,7 @@ Sí:
 
 ---
 
-## 🗄️ Tecnologías Sugeridas (Opcional)
+##  Tecnologías Sugeridas (Opcional)
 
 - Lenguaje: Java
 - Base de datos: MySQL

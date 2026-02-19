@@ -115,7 +115,3 @@ Sí:
 - Base de datos: MySQL
 - Interfaz: Consola o aplicación gráfica
 - Control de versiones: Git & GitHub
-
----
-
-## 📌 Conclusión

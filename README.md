@@ -55,6 +55,7 @@
 
 ## 📤 Salidas (Outputs)
 
+
 ### 🔹 ¿Qué obtiene el usuario?
 - Confirmación de venta.
 - Factura o comprobante.
@@ -93,7 +94,7 @@ Sí:
 
 ## 🔐 Información Manejada
 
-### 🔹 Datos críticos
+### 🔹 Datos críticos.
 - Historial de ventas.
 - Información financiera.
 - Inventario.

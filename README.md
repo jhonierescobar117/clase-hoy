@@ -22,4 +22,34 @@
 -  Fechas: fecha de venta.
 -  Archivos (opcional): reportes PDF o Excel.
 
+-  ## ⚙️ Procesos
+
+### 🔹 ¿Qué hace el sistema?
+- Registra clientes y productos.
+- Procesa ventas.
+- Actualiza inventario automáticamente.
+- Genera reportes.
+- Controla acceso mediante autenticación.
+
+### 🔹 Validaciones
+- Campos obligatorios no vacíos.
+- Cantidad disponible en inventario.
+- Usuario y contraseña correctos.
+- Formato correcto de datos (correo, números).
+
+### 🔹 Cálculos
+- Total de la venta.
+- Impuestos.
+- Ganancias.
+- Stock disponible.
+
+### 🔹 Almacenamiento
+- Base de datos de clientes.
+- Base de datos de productos.
+- Historial de ventas.
+- Registro de usuarios.
+
+---
+
+
 

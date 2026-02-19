@@ -5,7 +5,7 @@
 
 ## 📥 Entradas (Inputs)
 
-### 🔹 ¿Qué datos recibe el sistema?
+### 🔹 ¿Qué datos recibe el sistema.?
 - Datos de clientes (nombre, cédula, teléfono, correo).
 - Datos de productos (nombre, precio, cantidad en inventario).
 - Datos de ventas (producto, cantidad, fecha).

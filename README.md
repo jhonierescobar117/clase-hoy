@@ -76,7 +76,7 @@ Sí:
 
 ---
 
-##  Usuarios y Roles
+##  Usuarios y Roles.
 
 ### 🔹 Administrador
 - Agregar, editar y eliminar productos.

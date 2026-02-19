@@ -21,3 +21,9 @@ Procesa ventas.
 Actualiza inventario automáticamente.
 Genera reportes.
 Controla acceso mediante autenticación.
+
+Validaciones
+Campos obligatorios no vacíos.
+Cantidad disponible en inventario.
+Usuario y contraseña correctos.
+Formato correcto de datos (correo, números).

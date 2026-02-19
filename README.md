@@ -26,7 +26,7 @@
 
 ## ⚙️ Procesos
 
-### 🔹 ¿Qué hace el sistema?
+### 🔹 ¿Qué hace el sistema.?
 - Registra clientes y productos.
 - Procesa ventas.
 - Actualiza inventario automáticamente.

@@ -1,1 +1,25 @@
-k
+#  Arquitectura del Sistema  
+## Sistema de Gestión de Ventas
+
+---
+
+##  Entradas (Inputs)
+
+### 🔹 ¿Qué datos recibe el sistema.?
+- Datos de clientes (nombre, cédula, teléfono, correo).
+- Datos de productos (nombre, precio, cantidad en inventario).
+- Datos de ventas (producto, cantidad, fecha).
+- Credenciales de usuario (usuario y contraseña).
+
+
+### 🔹 ¿Quién los ingresa?
+- Administrador.
+- Empleado de ventas.
+
+### 🔹 Tipo de datos
+-  Texto: nombres, correos, descripciones.
+-  Números: precios, cantidades, totales.
+-  Fechas: fecha de venta.
+-  Archivos (opcional): reportes PDF o Excel.
+
+

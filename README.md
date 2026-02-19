@@ -1,5 +1,5 @@
 #  Arquitectura del Sistema  
-## Sistema de Gestión de Ventas
+## Sistema de Gestión de Ventas.
 
 ---
 

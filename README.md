@@ -53,7 +53,7 @@
 
 ---
 
-##  Salidas (Outputs)
+##  Salidas (Outputs).
 
 
 ### 🔹 ¿Qué obtiene el usuario?

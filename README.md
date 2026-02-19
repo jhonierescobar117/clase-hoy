@@ -96,6 +96,11 @@ Sí:
 - Inventario.
 - Credenciales de acceso.
 - Datos de clientes.
+### 🔹 Información que no se puede perder
+- Registro de ventas.
+- Control de inventario.
+- Datos financieros.
+- Usuarios registrados.
 
 
 

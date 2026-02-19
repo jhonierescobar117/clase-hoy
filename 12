@@ -14,3 +14,10 @@ Empleado de ventas.
  Números: precios, cantidades, totales.
  Fechas: fecha de venta.
  Archivos (opcional): reportes PDF o Excel.
+
+ ¿Qué hace el sistema?
+Registra clientes y productos.
+Procesa ventas.
+Actualiza inventario automáticamente.
+Genera reportes.
+Controla acceso mediante autenticación.

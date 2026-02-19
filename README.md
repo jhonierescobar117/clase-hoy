@@ -11,6 +11,7 @@
 - Datos de ventas (producto, cantidad, fecha).
 - Credenciales de usuario (usuario y contraseña).
 
+
 ### 🔹 ¿Quién los ingresa?
 - Administrador.
 - Empleado de ventas.

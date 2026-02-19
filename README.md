@@ -9,7 +9,7 @@
 - Datos de clientes (nombre, cédula, teléfono, correo).
 - Datos de productos (nombre, precio, cantidad en inventario).
 - Datos de ventas (producto, cantidad, fecha).
-- Credenciales de usuario (usuario y contraseña).
+- Credenciales de usuario (usuario y contraseña.).
 
 
 ### 🔹 ¿Quién los ingresa?

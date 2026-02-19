@@ -20,6 +20,7 @@
 - 🔢 Números: precios, cantidades, totales.
 - 📅 Fechas: fecha de venta.
 - 📂 Archivos (opcional): reportes PDF o Excel.
+- 
 
 ---
 
